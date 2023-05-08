@@ -1,0 +1,3 @@
+#Anotações importantes:
+ - Primeiro baixar o git 
+ - Depois criar uma conta no gitHub
