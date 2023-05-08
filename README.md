@@ -1,2 +1,5 @@
-# dio-desafio-github
-Desafio de projeto sobre Git/GitHub
+# Desafio da DIO 
+Criar primeiro repósitorio na GitHub
+
+## Links importantes
+[Meu GitHub](https://github.com/rodpepa)
